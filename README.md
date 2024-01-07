@@ -1,3 +1,14 @@
+# Thanks
+Thanks to JIBSIL and C0mputery for originally creating a server [HERE](https://github.com/JIBSIL/TABGCommunityServer/)
+
+TODO:
+Fix respawning with gulag.
+
+Leave an issue if you'd like to request a feature. I'd like to work on any feature suggested. I'm open to pull requests so feel free to leave them.
+
+
+# ORIGINAL README.md FROM JIBSIL & C0mputery
+
 # TABGCommunityServer
 Efficient server software for Totally Accurate Battlegrounds built from the ground up using ENet and C#
 
