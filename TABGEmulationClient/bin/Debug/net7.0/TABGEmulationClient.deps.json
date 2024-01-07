@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TABGEmulationClient/1.0.0": {
+        "dependencies": {
+          "ENet-CSharp": "2.4.8"
+        },
+        "runtime": {
+          "TABGEmulationClient.dll": {}
+        }
+      },
+      "ENet-CSharp/2.4.8": {
+        "runtime": {
+          "lib/net6.0/ENet-CSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libenet.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libenet.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/enet.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TABGEmulationClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ENet-CSharp/2.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qaV3YuYMQaVuCmw9Hl4S66FW7jkgY8wzzxGDwCdzBYwMePBKfcHyjt8cnIaP9A3XqpCK3sO4ME8v6kzRpNwJww==",
+      "path": "enet-csharp/2.4.8",
+      "hashPath": "enet-csharp.2.4.8.nupkg.sha512"
+    }
+  }
+}

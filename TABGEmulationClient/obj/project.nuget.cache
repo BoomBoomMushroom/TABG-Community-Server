@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPlml4Y54LW6v/f/zHq5c7w1zrWNJlTix7zfx4uLvaZE7KrNcfpLYmJ3GjRN3j/32v/i77jmlRIY4aqaMGLCWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Weaver\\Downloads\\TABGCommunityServer-master\\TABGEmulationClient\\TABGEmulationClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weaver\\.nuget\\packages\\enet-csharp\\2.4.8\\enet-csharp.2.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}

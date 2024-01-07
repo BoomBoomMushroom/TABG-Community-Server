@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAh/aiRE4FvaBwwNWfn20yTSAfGdDeWJHdgQTh/44lMFQUIoqfnDiNDnm5mlwf984rbyXDHi0IWscXBVKtnXOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Weaver\\Downloads\\TABGCommunityServer-master\\TABGServer\\TABGCommunityServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weaver\\.nuget\\packages\\enet-csharp\\2.4.8\\enet-csharp.2.4.8.nupkg.sha512",
+    "C:\\Users\\Weaver\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Weaver\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}
